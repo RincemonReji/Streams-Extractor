@@ -66,7 +66,7 @@ async def about(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew")
+                        "Support", url="https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew")
                 ]
             ]
         ),

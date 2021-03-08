@@ -35,6 +35,6 @@ See <i>help</i> for more details.
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Hosted :</b> <a href='Amazon'>Pyrogram 1.0.7</a> 
+⭕️<b>Hosted :</b> <a href='Amazon'>Amazon</a> 
 
 """

@@ -13,7 +13,7 @@ Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @TroJanzHEX</b>"""
+© @filmsandtrends_owner</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -26,15 +26,15 @@ See <i>help</i> for more details.
 
 🌀 <i>Now select the stream you need to extract!</i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @filmsandtrends_owner</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @filmsandtrends_owner   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Hosted :</b> <a href='Amazon'>Pyrogram 1.0.7</a> 
 
 """
